@@ -1,5 +1,5 @@
 module github.com/sharkpick/set
 
-go 1.19
+go 1.21.3
 
-require golang.org/x/exp v0.0.0-20221114191408-850992195362
+require golang.org/x/exp v0.0.0-20240213143201-ec583247a57a
